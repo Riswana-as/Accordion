@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./index.css";
+import "./App.css";
 import { FaBeer } from 'react-icons/fa';
 
 class Question extends React.Component {
